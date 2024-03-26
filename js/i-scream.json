@@ -4,17 +4,17 @@
     "established": 2024,
     "active": true,
     "topFlavors": [{
-        "name": "Chocolate Mint",
+        "name": "kjnkjjoijo",
         "calories": 200,
         "type": "ice-cream",
         "ingredients": ["Chocolate Syrup", "Pepprmint sprinkle", "Vanilla Base"],
-        "image": "https://priyansht.github.io/24W-JavaScript-02-Week11/images/chocolate-mint.svg"
+        "image": "https://kirby456.github.io/lab-4/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 250,
         "type": "milkshake-type ice-cream",
         "ingredients": ["Peach Syrup", "Mango chunks", "Vanilla Base"],
-        "image": "https://priyansht.github.io/24W-JavaScript-02-Week11/images/peach-mango.svg"
+        "image": "https://kirby456.github.io/lab-4/images/peach-mango.svg"
     }, {
         "name": "Strawberry Sprinkle",
         "calories": 300,
@@ -26,7 +26,7 @@
         "calories": 300,
         "type": "milkshake-ice-cream",
         "ingredients": ["flowers", "milk", "sprinkles", "water"],
-        "image": "https://priyansht.github.io/24W-JavaScript-02-Week11-main/images/ice-cream-xtra1.svg"
+        "image": "https://kirby456.github.io/lab-4/images/chocolate-mint.svg"
     }
 ]
 }
