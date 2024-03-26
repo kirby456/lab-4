@@ -4,7 +4,7 @@
     "established": 2024,
     "active": true,
     "topFlavors": [{
-        "name": "kjnkjjoijo",
+        "name": "Chocolate Mint",
         "calories": 200,
         "type": "ice-cream",
         "ingredients": ["Chocolate Syrup", "Pepprmint sprinkle", "Vanilla Base"],
@@ -20,13 +20,19 @@
         "calories": 300,
         "type": "milkshake-ice-cream",
         "ingredients": ["Strawberry Syrup", "Sprinkles", "Vanilla Base", "Chocolate Syrup"],
-        "image": "https://priyansht.github.io/24W-JavaScript-02-Week11/images/strawberry-sprinkle.svg"
+        "image": "https://kirby456.github.io/lab-4/images/strawberry-sprinkle.svg"
     }, {
-        "name": "vanilla",
-        "calories": 300,
-        "type": "milkshake-ice-cream",
-        "ingredients": ["flowers", "milk", "sprinkles", "water"],
-        "image": "https://kirby456.github.io/lab-4/images/chocolate-mint.svg"
+        "name": "Boogie Woogie",
+        "calories": 100,
+        "type": "ice-cream",
+        "ingredients": ["Strawberry", "Milk", "Sprinkles", "Water"],
+        "image": "https://kirby456.github.io/lab-4/images/ice-cream-xtra1.svg"
+    }, {
+        "name": "Greek Yogurt",
+        "calories": 400,
+        "type": "yogurt-cream",
+        "ingredients": ["Mlik", "Blueberry", "Yogurt", "Ice"],
+        "image": "https://kirby456.github.io/lab-4/images/ice-cream-xtra2.svg"
     }
-]
+] 
 }
