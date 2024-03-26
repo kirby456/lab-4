@@ -24,6 +24,7 @@ header p {
 /* section styles */
 section {
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: space-between;
 	margin-bottom: 5rem;
 }
@@ -31,7 +32,9 @@ section article {
 	border: 1px solid black;
 	box-shadow: 0 2px 14px grey;
 	padding: 2.5%;
-	width: 25%
+	width: 25%;
+	margin: 2rem;
+
 }
 article img {
 	display: block;
@@ -50,3 +53,4 @@ h2 {
   font-size: 2.5rem;
   margin-bottom: 10px;
 }
+
